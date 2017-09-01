@@ -1,16 +1,15 @@
 {
-  "name": "jquery-mask-plugin",
-  "version": "1.14.11",
+  "name": "bmsdave-jquery-mask-plugin",
+  "version": "1.14.12",
   "description": "A jQuery Plugin to make masks on form fields and html elements.",
   "author": "Igor Escobar <blog@igorescobar.com>",
-  "homepage": "http://igorescobar.github.io/jQuery-Mask-Plugin/",
   "main": "./dist/jquery.mask.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/igorescobar/jQuery-Mask-Plugin"
+    "url": "https://github.com/bmsdave/jQuery-Mask-Plugin"
   },
   "bugs": {
-    "url": "https://github.com/igorescobar/jQuery-Mask-Plugin/issues"
+    "url": "https://github.com/bmsdave/jQuery-Mask-Plugin/issues"
   },
   "keywords": [
     "mask",
