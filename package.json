@@ -1,6 +1,6 @@
 {
   "name": "bmsdave-jquery-mask-plugin",
-  "version": "1.14.14",
+  "version": "1.14.16",
   "description": "A jQuery Plugin to make masks on form fields and html elements.",
   "author": "Igor Escobar <blog@igorescobar.com>",
   "main": "./dist/jquery.mask.js",
